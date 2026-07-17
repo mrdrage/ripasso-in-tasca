@@ -1,0 +1,25 @@
+.DS_Store
+**/.DS_Store
+
+# Materiali sorgente e acquisizioni locali: non fanno parte dell'app pubblicata.
+*.pdf
+*.PDF
+*.jpg
+*.JPG
+*.jpeg
+*.JPEG
+*.heic
+*.HEIC
+*.tif
+*.tiff
+/scans/
+/source-materials/
+/ocr-output/
+
+# Output temporanei o generati durante verifiche locali.
+/tmp/
+/.cache/
+/coverage/
+*.ocr.txt
+*.local.json
+*.log

@@ -662,10 +662,6 @@
   ]);
 
   window.STUDY_DATA = {
-    exam: {
-      written: "2026-08-26T08:00:00+02:00",
-      oral: "2026-08-27T08:00:00+02:00"
-    },
     subjects: {
       history: {
         id: "history",
